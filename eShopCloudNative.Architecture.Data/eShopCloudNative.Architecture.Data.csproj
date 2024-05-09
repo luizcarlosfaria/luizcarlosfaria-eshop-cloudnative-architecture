@@ -7,7 +7,7 @@
         <PackageReference Include="FluentNHibernate" Version="3.1.0" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
         <PackageReference Include="NHibernate" Version="5.3.13" />
-        <PackageReference Include="Npgsql" Version="6.0.7" />
+        <PackageReference Include="Npgsql" Version="8.0.3" />
     </ItemGroup>
 
     <ItemGroup>
